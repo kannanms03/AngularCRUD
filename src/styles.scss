@@ -1,0 +1,48 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+@import '~ngx-toastr/toastr';
+
+.user-layout
+{
+    .table 
+    {
+       :not(:first-child)
+       {
+           border-top: 0;
+       }
+    }
+}
+.btn 
+{
+    &.btn-success, &.btn-danger
+    {
+        &:active
+        {
+            box-shadow: none;
+        }
+    }    
+}
+.btn-close
+{
+    &.close
+    {
+        box-shadow: none;
+    }
+}
+.btn, .form-control
+{
+    &:focus
+    {
+        box-shadow: none;
+    }
+}
+
+.has-error
+{
+    color: red;
+}
+.c-pointer
+{
+    cursor: pointer;
+}

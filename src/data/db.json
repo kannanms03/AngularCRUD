@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Kannan",
+      "email": "kannan@gmail.com",
+      "mobile": "8979879899",
+      "id": 1
+    },
+    {
+      "name": "Mohan",
+      "email": "mohan@gmail.com",
+      "mobile": "9876543210",
+      "id": 2
+    },
+    {
+      "name": "kumar",
+      "email": "kumar03@gmail.com",
+      "mobile": "9898899898",
+      "id": 3
+    },
+    {
+      "name": "mani",
+      "email": "mani@gmail.com",
+      "mobile": "9998980003",
+      "id": 4
+    },
+    {
+      "name": "sasi",
+      "email": "sasi@gmail.com",
+      "mobile": "0900090900",
+      "id": 5
+    },
+    {
+      "name": "Dhakshan",
+      "email": "dhakshan@gmail.com",
+      "mobile": "9898899898",
+      "id": 6
+    }
+  ]
+}
